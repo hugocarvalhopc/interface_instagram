@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    background-color: rgb(243, 243, 243);
+    justify-content: center;
+   
+}
+
+
+/*área-login*/
+
+
+.login {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+    
+}
+
+/*formatação links*/
+
+
+#remover  a {
+    text-decoration: none;
+}
+
+
+#ou p a {
+    text-decoration: none;
+}
+
+
